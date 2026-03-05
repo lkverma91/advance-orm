@@ -1,0 +1,4 @@
+package com.example.advance_orm.dto.request;
+
+public class UsersRequest {
+}
