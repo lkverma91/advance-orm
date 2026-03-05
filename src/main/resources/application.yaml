@@ -1,5 +1,7 @@
 spring:
   application:
     name: advance-orm
+  profiles:
+    default: mysql
 server:
   port: 8089
