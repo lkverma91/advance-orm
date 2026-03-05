@@ -1,0 +1,6 @@
+services:
+  mysql:
+    environment:
+      MYSQL_USER: advance
+      MYSQL_PASSWORD: advance
+      MYSQL_ROOT_PASSWORD: root
